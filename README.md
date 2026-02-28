@@ -89,7 +89,7 @@ docspot/
     │   └── index.js
 Installation and Setup
 1. Clone the Repository
-git clone https://github.com/rajeshKommu14/docspot.git
+git clone https://github.com/praveenalaparthi-pixel/docspot.git
 cd docspot
 2. Backend Setup
 
@@ -175,5 +175,5 @@ Cloud deployment
 
 Author
 
-Rajesh Kommu
-GitHub: https://github.com/rajeshKommu14
+praveen kumar alaparthi
+GitHub: https://gihub.com/praveenalaparthi-pixel/docspot
